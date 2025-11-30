@@ -1,7 +1,7 @@
 url: https://streckenkunde.digital/api
-status: up
-code: 200
-responseTime: 1003
-lastUpdated: 2025-11-29T23:06:22.058Z
+status: down
+code: 503
+responseTime: 1281
+lastUpdated: 2025-11-30T09:55:33.304Z
 startTime: 2025-08-01T00:32:42.987Z
 generator: Upptime <https://github.com/upptime/upptime>
