@@ -4,35 +4,37 @@
     "url": "https://streckenkunde.digital",
     "icon": "https://icons.duckduckgo.com/ip3/streckenkunde.digital.ico",
     "slug": "webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1371,
-    "timeDay": 1466,
-    "timeWeek": 1523,
+    "timeDay": 1452,
+    "timeWeek": 1512,
     "timeMonth": 1465,
     "timeYear": 1371,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-30": 0
+    }
   },
   {
     "name": "API",
     "url": "https://streckenkunde.digital/api",
     "icon": "https://icons.duckduckgo.com/ip3/streckenkunde.digital.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 1003,
-    "timeWeek": 1042,
-    "timeMonth": 915,
-    "timeYear": 868,
+    "time": 872,
+    "timeDay": 1142,
+    "timeWeek": 1072,
+    "timeMonth": 927,
+    "timeYear": 872,
     "dailyMinutesDown": {}
   }
 ]
