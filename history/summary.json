@@ -4,19 +4,19 @@
     "url": "https://streckenkunde.digital",
     "icon": "https://icons.duckduckgo.com/ip3/streckenkunde.digital.ico",
     "slug": "webseite",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 1359,
-    "timeDay": 845,
-    "timeWeek": 1118,
-    "timeMonth": 1290,
-    "timeYear": 1359,
+    "time": 1354,
+    "timeDay": 758,
+    "timeWeek": 1059,
+    "timeMonth": 1268,
+    "timeYear": 1354,
     "dailyMinutesDown": {
-      "2026-01-01": 0,
+      "2026-01-01": 14,
       "2025-11-30": 12
     }
   },
@@ -27,9 +27,9 @@
     "slug": "api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 883,
     "timeDay": 628,
@@ -37,7 +37,7 @@
     "timeMonth": 924,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2026-01-01": 0,
+      "2026-01-01": 14,
       "2025-11-30": 12
     }
   }
