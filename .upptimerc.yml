@@ -3,6 +3,7 @@ owner: Streckenkunde
 repo: Monitoring
 
 sites:
+  # Only website references
   - name: Webseite
     url: https://streckenkunde.digital
 
