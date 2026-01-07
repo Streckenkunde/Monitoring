@@ -21,25 +21,5 @@
       "2026-01-01": 332,
       "2025-11-30": 12
     }
-  },
-  {
-    "name": "API",
-    "url": "https://streckenkunde.digital/api",
-    "icon": "https://icons.duckduckgo.com/ip3/streckenkunde.digital.ico",
-    "slug": "api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 859,
-    "timeDay": 155,
-    "timeWeek": 337,
-    "timeMonth": 795,
-    "timeYear": 859,
-    "dailyMinutesDown": {
-      "2025-11-30": 12
-    }
   }
 ]
