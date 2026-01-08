@@ -5,21 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/streckenkunde.digital.ico",
     "slug": "webseite",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.83%",
-    "time": 1310,
-    "timeDay": 553,
-    "timeWeek": 741,
-    "timeMonth": 1100,
-    "timeYear": 1310,
-    "dailyMinutesDown": {
-      "2026-01-05": 33,
-      "2026-01-04": 18,
-      "2026-01-01": 332,
-      "2025-11-30": 12
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1306,
+    "timeDay": 514,
+    "timeWeek": 697,
+    "timeMonth": 1082,
+    "timeYear": 1306,
+    "dailyMinutesDown": {}
   }
 ]
