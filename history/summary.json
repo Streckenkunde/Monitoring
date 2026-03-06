@@ -4,17 +4,17 @@
     "url": "https://streckenkunde.digital",
     "icon": "https://icons.duckduckgo.com/ip3/streckenkunde.digital.ico",
     "slug": "webseite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1165,
-    "timeDay": 900,
-    "timeWeek": 723,
-    "timeMonth": 700,
-    "timeYear": 1165,
+    "time": 1162,
+    "timeDay": 667,
+    "timeWeek": 687,
+    "timeMonth": 691,
+    "timeYear": 1162,
     "dailyMinutesDown": {}
   }
 ]
